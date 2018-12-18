@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deezebee/.git/hehexd/countDirs/directories_count.c
+directories_count.h
+/home/deezebee/.git/hehexd/countDirs/directories_count.h
+
+/home/deezebee/.git/hehexd/countDirs/directories_count.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+dirent.h
+-
+sys/types.h
+-
+string.h
+-
+sys/statfs.h
+-
+errno.h
+-
+unistd.h
+-
+ownLib.h
+/home/deezebee/.git/hehexd/countDirs/ownLib.h
+
+/home/deezebee/.git/hehexd/countDirs/main.c
+directories_count.h
+/home/deezebee/.git/hehexd/countDirs/directories_count.h
+
+/home/deezebee/.git/hehexd/countDirs/ownLib.h
+
+/home/deezebee/.git/hehexd/countDirs/strSize.c
+ownLib.h
+/home/deezebee/.git/hehexd/countDirs/ownLib.h
+

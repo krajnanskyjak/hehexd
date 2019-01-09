@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deezebee/.git/hehexd/parkhaus/main.c
+parkhaus.h
+/home/deezebee/.git/hehexd/parkhaus/parkhaus.h
+
+/home/deezebee/.git/hehexd/parkhaus/parkhaus.c
+parkhaus.h
+/home/deezebee/.git/hehexd/parkhaus/parkhaus.h
+
+/home/deezebee/.git/hehexd/parkhaus/parkhaus.h
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+

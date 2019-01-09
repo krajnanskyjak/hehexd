@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/parkhaus.dir/main.c.o CMakeFiles/parkhaus.dir/parkhaus.c.o  -o parkhaus 

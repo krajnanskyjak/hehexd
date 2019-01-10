@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bfcf496-3945-4867-a79b-9d56b4c167c5" name="Default" comment="" />
+    <list default="true" id="02b56a53-b544-40c0-83a6-2311db60db2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/practice/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/VlcPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/adapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/BridgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/drawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/test/BlueSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/test/FillAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/test/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/test/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/test/YellowSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/CoRTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/LoggerChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Broker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/BuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/SellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/CompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/HexObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/test/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/test/ProxyAudio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/test/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/test/RealAudio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/StartState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/StopState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design_patterns/abstract_factory/AbstractFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_patterns/abstract_factory/AbstractFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract_factory/AbstractFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/AbstractFactoryTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,29 +71,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/AbstractFactory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/state/StartState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="286">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/StringFactory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/state/StateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="308">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AFtest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/AFtest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/MediaPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="66">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/AdvancedMediaPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/VlcPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/Mp4Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/MediaAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/adapter/AudioPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/adapter/adapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/state/StopState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,50 +187,72 @@
       </list>
     </option>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../4ahit-krajnanskyjak/100_krajnansky_bomberguy" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/abstract_factory/Shape.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Circle.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Square.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Color.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Red.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Blue.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/Green.java" />
+        <option value="$PROJECT_DIR$/src/bridge/BridgeTest.java" />
+        <option value="$PROJECT_DIR$/src/bridge/test/YellowSquare.java" />
+        <option value="$PROJECT_DIR$/src/bridge/test/BlueSquare.java" />
+        <option value="$PROJECT_DIR$/src/bridge/test/FillAPI.java" />
+        <option value="$PROJECT_DIR$/src/bridge/test/Shape.java" />
+        <option value="$PROJECT_DIR$/src/bridge/test/Square.java" />
+        <option value="$PROJECT_DIR$/src/proxy/Image.java" />
+        <option value="$PROJECT_DIR$/src/proxy/ProxyImage.java" />
+        <option value="$PROJECT_DIR$/src/proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/proxy/RealImage.java" />
+        <option value="$PROJECT_DIR$/src/proxy/test/Audio.java" />
+        <option value="$PROJECT_DIR$/src/proxy/test/RealAudio.java" />
+        <option value="$PROJECT_DIR$/src/proxy/test/ProxyAudio.java" />
+        <option value="$PROJECT_DIR$/src/proxy/test/ProxyTest.java" />
         <option value="$PROJECT_DIR$/src/abstract_factory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/abstract_factory/practice/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/abstract_factory/FactoryProducer.java" />
         <option value="$PROJECT_DIR$/src/abstract_factory/AbstractFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/practice/ToStringInterface.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/practice/AFtest.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/practice/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/practice/StringFactory.java" />
+        <option value="$PROJECT_DIR$/src/bridge/Circle.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/AbstractLogger.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/ConsoleLogger.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/ErrorLogger.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/FileLogger.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/LoggerChain.java" />
+        <option value="$PROJECT_DIR$/src/chain_of_responsibility/CoRTest.java" />
+        <option value="$PROJECT_DIR$/src/Observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/Observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/Observer/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/src/Observer/OctalObserver.java" />
+        <option value="$PROJECT_DIR$/src/Observer/HexObserver.java" />
+        <option value="$PROJECT_DIR$/src/Observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/composite/Employee.java" />
+        <option value="$PROJECT_DIR$/src/composite/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/command/Order.java" />
+        <option value="$PROJECT_DIR$/src/command/Stock.java" />
+        <option value="$PROJECT_DIR$/src/command/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/command/Broker.java" />
+        <option value="$PROJECT_DIR$/src/command/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/command/SellStock.java" />
+        <option value="$PROJECT_DIR$/src/state/State.java" />
+        <option value="$PROJECT_DIR$/src/state/StartState.java" />
+        <option value="$PROJECT_DIR$/src/state/StopState.java" />
+        <option value="$PROJECT_DIR$/src/state/Context.java" />
+        <option value="$PROJECT_DIR$/src/state/StateTest.java" />
+        <option value="$PROJECT_DIR$/src/adapter/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/adapter/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/adapter/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/adapter/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/src/adapter/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/adapter/adapterTest.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1909" />
+    <option name="width" value="1940" />
+    <option name="height" value="2111" />
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
-    <option name="y" value="23" />
-    <option name="width" value="1177" />
-    <option name="height" value="620" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -110,34 +270,19 @@
               <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../C--" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547078526031" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,107 +296,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactory">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="AFtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_factory.practice.AFtest" />
+  <component name="RunManager" selected="Application.adapterTest">
+    <configuration name="CoRTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chain_of_responsibility.CoRTest" />
       <module name="design_patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_factory.practice.*" />
+          <option name="PATTERN" value="chain_of_responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_factory.practice.AbstractFactory" />
+    <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="command.CommandTest" />
       <module name="design_patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_factory.practice.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_factory.AbstractFactoryTest" />
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.ObserverTest" />
       <module name="design_patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_factory.*" />
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.StateTest" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    <configuration name="adapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adapter.adapterTest" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.AbstractFactoryTest" />
-      <item itemvalue="Application.AFtest" />
-      <item itemvalue="Application.AbstractFactory" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactory" />
-        <item itemvalue="Application.AFtest" />
-        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.adapterTest" />
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.CommandTest" />
+        <item itemvalue="Application.ObserverTest" />
+        <item itemvalue="Application.CoRTest" />
       </list>
     </recent_temporary>
   </component>
@@ -260,76 +377,274 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bfcf496-3945-4867-a79b-9d56b4c167c5" name="Default" comment="" />
-      <created>1547034392584</created>
+      <changelist id="02b56a53-b544-40c0-83a6-2311db60db2a" name="Default Changelist" comment="" />
+      <created>1547040752148</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547034392584</updated>
-      <workItem from="1547034397091" duration="2559000" />
+      <updated>1547040752148</updated>
+      <workItem from="1547040755011" duration="26599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2559000" />
+    <option name="totallyTimeSpent" value="26599000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-3" width="1317" height="771" extended-state="6" />
-    <editor active="true" />
+    <frame x="1273" y="0" width="1293" height="1407" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32880846" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981017" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969835" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20032707" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32977462" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32977462" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32977462" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/abstract_factory/practice/AbstractFactory.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/proxy/test/ProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="132">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/test/ProxyAudio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/test/Audio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/SingletonLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="e#145#154#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Green.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/BridgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/FileLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/ErrorLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/ConsoleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/LoggerChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chain_of_responsibility/CoRTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#157#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/HexObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding>
             <element signature="e#107#108#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -337,150 +652,254 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/OctalObserver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Green.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/ObserverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="154">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#241#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/ShapeFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/composite/CompositeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="550">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/drawAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/RedCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/GreenCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#120#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Color.java">
+    <entry file="file://$PROJECT_DIR$/src/command/CommandTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Blue.java">
+    <entry file="file://$PROJECT_DIR$/src/command/BuyStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/command/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="242">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/AbstractFactoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/command/SellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/state/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/ToStringInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/state/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/ColorFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/state/StopState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="264">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/AFtest.java">
+    <entry file="file://$PROJECT_DIR$/src/state/StartState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="286">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/StringFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/state/StateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="308">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/practice/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/adapter/VlcPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/adapter/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/adapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

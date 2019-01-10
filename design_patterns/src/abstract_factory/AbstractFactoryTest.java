@@ -2,16 +2,25 @@ package abstract_factory;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {
-        ShapeFactory sf = new ShapeFactory();
-        ColorFactory cf = new ColorFactory();
+        FactoryProducer fp = new FactoryProducer();
+        AbstractFactory shapeFactory = fp.getFactory("shape");
+        AbstractFactory colorFactory = fp.getFactory("color");
 
-        sf.getShape("circle").draw();
-        sf.getShape("rectangle").draw();
-        sf.getShape("square").draw();
+        Shape rectangle = shapeFactory.getShape("rectangle");
+        Shape square = shapeFactory.getShape("square");
+        Shape circle = shapeFactory.getShape("circle");
 
-        cf.getColor("red").fill();
-        cf.getColor("blue").fill();
-        cf.getColor("green").fill();
+        Color red = colorFactory.getColor("red");
+        Color green = colorFactory.getColor("green");
+        Color blue = colorFactory.getColor("blue");
+
+        rectangle.draw();
+        square.draw();
+        circle.draw();
+
+        red.fill();
+        green.fill();
+        blue.fill();
 
     }
 }

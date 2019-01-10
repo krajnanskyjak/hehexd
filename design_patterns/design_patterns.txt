@@ -1,0 +1,50 @@
+------------------Proxy:
+Something that is authorized to handle the requests on the behalf of the original object
+
+sometimes needed to handle things that are not in the scope of the original object
+
+the functionality of the original object is maintained
+
+the proxy object can do pre-processing or post-processing before the request is handed to the original object
+
+-----------------Bridge:
+de-couples the back-end concrete classes from the front-end abstracted class
+--> allows to swap the abstracted front-end or the concrete back-end implementations on a whim without breaking compatibility
+
+
+----------------chain of responsibility:
+contains a chain of multiple objects all of which can handle the request which is passed into the CoR object itself
+
+the request iterates through the chain of those objects until an object is found which fits the type of request
+
+The sequence of these objects is decided on the level of responsibility that each of those objects have.
+The first object has the lowest level of responsibility, and the last one has the highest of responsibility.
+
+------------------Observer:
+when many other objects have to be updated when another object changes
+
+Three actor classes: Subject, Observer, Client
+
+Subject has methods to attach Observers to a client, and also to detach them.
+
+-----------------Composite:
+Makes it possible for multiple objects to be treated as one
+It also allows the components of the composite design pattern to be divided into even smaller ones
+through this data can be structured, and you can also represent every single part of an Object individually
+this pattern structures its objects into a hierarchy tree
+
+-----------------Command:
+This pattern uses an object to save all necessary information for a method to be called at a later time
+It needs to save the method name, the object which owns the method, and the method parameters
+Example: The undo function in text editors.
+
+-----------------State:
+in this pattern the behavior of a class changes based on its state.
+multiple objects are created which represent different states
+one context object is created which alters its behavior when its state object changes
+
+-----------------Adapter:
+works as a bridge between two incompatible interfaces
+
+
+
